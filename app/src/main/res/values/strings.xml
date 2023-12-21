@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Coffee Konstitusi</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="popular">Menu Populer</string>
+    <string name="view_more">View More</string>
+    <string name="coffee_name">Coffee Name</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="explore_your_favorite_coffee">Explore Your Favorite Coffee</string>
+    <string name="search">search</string>
+    <string name="coffee_menu">Coffee Menu</string>
+    <string name="buy_again">Buy Again</string>
+    <string name="address">Perumahan Cinity Jl.Cakalang 01 Blok cm 07 Desa Karang Raharja, Kecamatan Cikarang, Kab. Bekasi. Indonesia</string>
+    <string name="enjoy_coffeeshop_quality_meals_at_home">Enjoy CoffeeShop Quality Meals at Home</string>
+    <string name="konstitusikopi">KONSTITUSIkopi</string>
+    <string name="capstone_project">Capstone Project Tim</string>
+    <string name="congratulation_order">Congratulations your order\nhas been successful.\nHope you like our Coffee :)</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="default_web_client_id">962709540902-a2gvt6qh0ddhqrgq9qs08jp0s0kc8bdi.apps.googleusercontent.com</string>
+    <string name="menu">Menu Lengkap Kami😁</string>
+    <string name="google_maps_key">AIzaSyAvyvHxNrhE8_IA5ROED-_de_tvzAtVC_Y</string>
+</resources>

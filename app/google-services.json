@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "962709540902",
+    "firebase_url": "https://konstitusicoffee-default-rtdb.firebaseio.com",
+    "project_id": "konstitusicoffee",
+    "storage_bucket": "konstitusicoffee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962709540902:android:e48e568d301d69878116e7",
+        "android_client_info": {
+          "package_name": "com.anggriawan.adminkonstitusicoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962709540902-f8kb7tvh98l5c7m4911ig1bgl85qauui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anggriawan.adminkonstitusicoffee",
+            "certificate_hash": "af9ba1e5cb7b4bd21a50b359b4ac54ce9286885e"
+          }
+        },
+        {
+          "client_id": "962709540902-a2gvt6qh0ddhqrgq9qs08jp0s0kc8bdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4YPJ-qBNUcV31UpGOglFnPk3hHPg5ehc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962709540902-a2gvt6qh0ddhqrgq9qs08jp0s0kc8bdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962709540902:android:3901b33d02450a3c8116e7",
+        "android_client_info": {
+          "package_name": "com.anggriawans.coffeekonstitusi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962709540902-a2gvt6qh0ddhqrgq9qs08jp0s0kc8bdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4YPJ-qBNUcV31UpGOglFnPk3hHPg5ehc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962709540902-a2gvt6qh0ddhqrgq9qs08jp0s0kc8bdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
